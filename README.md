@@ -3,7 +3,8 @@
 
 ARAMA AĞAÇLARI, YIĞINLAR ve HASH TABLOSU: BİSİKLET KİRALAMA SİSTEMİ
 Duraklar Nesnesi (Durak Adı, Boş Park, Tandem Bisiklet, Normal Bisiklet)
- String[] duraklar = {"Inciraltı, 28, 2, 10", "Sahilevleri, 8, 1, 11", "Doğal Yaşam Parkı, 17, 1, 6", "Bostanlı İskele, 7, 0, 5","Uçkuyular, 8, 1, 8","Güzelyalı, 15, 0, 4","Karantina, 21, 3, 6","Cesme, 13, 5, 2","Liman, 24, 2, 6"};
+         String[] duraklar = {"Inciraltı, 28, 2, 10", "Sahilevleri, 8, 1, 11", "Doğal Yaşam Parkı, 17, 1, 6", "Bostanlı İskele, 7, 0, 5","Uçkuyular, 8, 1, 8","Güzelyalı, 15, 0, 4","Karantina, 21, 3, 6","Cesme, 13, 5, 2","Liman, 24, 2, 6"}
+         
 1.a) duraklar dizisine 5 tane daha istasyonun bilgilerini ekleyiniz (bisim.com.tr gibi bisiklet kiralama sistemlerini araştırarak tahmini değerler yazabilirsiniz), 9’a tamamlayınız. duraklar dizisindeki string’leri sahalarına ayrıştırarak Durak Nesnelerini oluşturup, Durak Adı’na göre DurakAğacı adlı ikili arama ağacına yerleştiren kodu yazınız. Her bir Durak nesnesini ağaca eklerken, düğüme List tipinde bir veri yapısı içinde 1 ile 10 adet arasında random sayıda rastgele Müşteri (Müşteri ID, kiralama saati) ekleyiniz (Sistemde toplam 20 müşterinin kayıtlı olduğunu varsayınız ID:1 – ID:20). Boş park ve bisiklet sayılarını güncelleyiniz. Hazır ağaç kodlarından yararlanabilirsiniz. Sayısal elemanlar için uygun veri tiplerini belirleyiniz.
 b) Ağacın derinliğini bulduran metodu yazınız. Ağaçtaki tüm bilgileri (Listeye göre kaç müşterinin kiralama yaptığı bilgisi ve Liste içindeki bilgiler dahil) ekrana listeleyen metodu yazınız.
 
