@@ -13,10 +13,10 @@ c) Klavyeden verilen bir Müşteri ID’si için ağacın tüm düğümlerini do
 
 d) Kiralama işlemi: Adı verilen bir istasyondan, Müşteri Numarası (ID) verilen kişinin normal bir bisiklet kiralama işlemini yapıp, Listeye ilgili bilgiyi (ID + random saat) ekleyen metodu yazınız. BP sayısı da 1 artacak.
 
-a) 1. Soruda belirtilen Durak Bilgilerini Durak Adı’na göre bir Hash Table’a yerleştiren kodu yazınız. [duraklar dizisini kullanabilirsiniz. Bu soruda müşteri eklemenize gerek yok]
+2.a) 1. Soruda belirtilen Durak Bilgilerini Durak Adı’na göre bir Hash Table’a yerleştiren kodu yazınız. [duraklar dizisini kullanabilirsiniz. Bu soruda müşteri eklemenize gerek yok]
 b) Boş Park Yeri sayısı 5’ten fazla olan tüm istasyonlara 5’er tane normal bisiklet ekleyerek Hash Tablosunda güncelleyen kodu yazınız.
 
-a) C# / Java ile bir Heap Veri Yapısı (sınıfı) tasarlayınız. Altyapıda elemanlarını tutmak için dizi veya List / Vector kullanabilirsiniz. Kodlayıp çalıştırınız.
+3.a) C# / Java ile bir Heap Veri Yapısı (sınıfı) tasarlayınız. Altyapıda elemanlarını tutmak için dizi veya List / Vector kullanabilirsiniz. Kodlayıp çalıştırınız.
 b) Sadece Normal Bisiklet sayılarına göre düğümleri bir Max. Yığın’a yani Max. Heap’e (Java’daki PriorityQueue Heap düzenindedir) yerleştiren kodu yazınız.
 
 c) O anda en fazla Normal Bisiklet olan üç İstasyonu Heap’ten çekerek ilgili durak / istasyon bilgilerini listeleyen kodu yazınız.
