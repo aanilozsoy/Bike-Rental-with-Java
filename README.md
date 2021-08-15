@@ -1,5 +1,5 @@
 # Bike-Rental-with-Java
-# Ege University - Computer Engineering Department Data Structures Project 3
+Ege University - Computer Engineering Department Data Structures Project 3
 
 ARAMA AĞAÇLARI, YIĞINLAR ve HASH TABLOSU: BİSİKLET KİRALAMA SİSTEMİ
 Duraklar Nesnesi (Durak Adı, Boş Park, Tandem Bisiklet, Normal Bisiklet)
